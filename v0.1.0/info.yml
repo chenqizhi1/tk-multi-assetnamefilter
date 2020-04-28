@@ -1,0 +1,14 @@
+configuration:
+
+supported_engines:
+
+requires_shotgun_fields:
+
+display_name: "Asset Rename Filter"
+description: "Rename assets name test..."
+
+requires_shotgun_version:
+requires_core_version: "v0.19.3"
+requires_engine_version:
+
+frameworks:
